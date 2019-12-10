@@ -1,0 +1,11 @@
+C:\Users\Muhammed\Documents\Visual Studio 2015\Projects\okul-calismalari\ödev1\soru6\soru6\bin\Debug\soru6.exe.config
+C:\Users\Muhammed\Documents\Visual Studio 2015\Projects\okul-calismalari\ödev1\soru6\soru6\bin\Debug\soru6.exe
+C:\Users\Muhammed\Documents\Visual Studio 2015\Projects\okul-calismalari\ödev1\soru6\soru6\bin\Debug\soru6.pdb
+C:\Users\Muhammed\Documents\Visual Studio 2015\Projects\okul-calismalari\ödev1\soru6\soru6\obj\Debug\soru6.csprojResolveAssemblyReference.cache
+C:\Users\Muhammed\Documents\Visual Studio 2015\Projects\okul-calismalari\ödev1\soru6\soru6\obj\Debug\soru6.Form1.resources
+C:\Users\Muhammed\Documents\Visual Studio 2015\Projects\okul-calismalari\ödev1\soru6\soru6\obj\Debug\soru6.Properties.Resources.resources
+C:\Users\Muhammed\Documents\Visual Studio 2015\Projects\okul-calismalari\ödev1\soru6\soru6\obj\Debug\soru6.csproj.GenerateResource.Cache
+C:\Users\Muhammed\Documents\Visual Studio 2015\Projects\okul-calismalari\ödev1\soru6\soru6\obj\Debug\soru6.exe
+C:\Users\Muhammed\Documents\Visual Studio 2015\Projects\okul-calismalari\ödev1\soru6\soru6\obj\Debug\soru6.pdb
+C:\Users\Muhammed\Documents\Visual Studio 2015\Projects\okul-calismalari\ödev1\soru6\soru6\obj\Debug\soru6.Form2.resources
+C:\Users\Muhammed\Documents\Visual Studio 2015\Projects\okul-calismalari\ödev1\soru6\soru6\obj\Debug\soru6.Form3.resources
